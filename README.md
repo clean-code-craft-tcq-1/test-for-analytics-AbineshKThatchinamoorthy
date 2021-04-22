@@ -24,6 +24,8 @@ Notification must be sent when a new report is available.
 
 List the dependencies of the Analysis-functionality.
 
+ADDED 5 NEW DEPENDENCIES
+
 1. Access to the Server containing the telemetrics in a csv file
 2. Access to the Server to Store the PDF report every week
 3. Notification -> Receiver of the notification, Channel used for transmitting the notification
@@ -31,7 +33,6 @@ List the dependencies of the Analysis-functionality.
 5. Threshold limits for minimum and maximum to calculate the breaches and trends
 6. Is there any specific time on which the week's report should be stored ? Example : Monday Morning 6 AM 
 
-(add more if needed)
 
 ### Mark the System Boundary
 
